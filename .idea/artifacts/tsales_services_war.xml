@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tsales-services:war">
+    <output-path>$USER_HOME$/git/QDump/Tsales/tsales-services/target</output-path>
+    <root id="archive" name="tsales-services.war">
+      <element id="artifact" artifact-name="tsales-services:war exploded" />
+    </root>
+  </artifact>
+</component>
